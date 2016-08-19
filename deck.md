@@ -1,5 +1,6 @@
 # Welcome
 
+![physical-web](https://raw.githubusercontent.com/thegecko/web-bluetooth/master/images/physical-web.png)
 * Physical Web
 * __Demo__ - beacons (phone)
 * [Web Bluetooth](https://webbluetoothcg.github.io/web-bluetooth/) - [Implementation](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)
