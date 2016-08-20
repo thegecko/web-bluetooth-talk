@@ -1,12 +1,17 @@
-# Welcome
+# Web Bluetooth (with mbed)
+
+Rob Moran - Web Application Engineer, IoT
 
 # Physical Web
 ![physical-web](https://raw.githubusercontent.com/thegecko/web-bluetooth/master/images/physical-web.png)
 
+[http://physical-web.org](http://physical-web.org)
+
 Scott Jenson @google
 
 # Demo
-beacons (phone)
+
+![mbed-beacon](https://raw.githubusercontent.com/thegecko/web-bluetooth/master/images/mbed-beacon.png)
 
 # Web Bluetooth
 
