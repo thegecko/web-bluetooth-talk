@@ -3,6 +3,8 @@
 # Physical Web
 ![physical-web](https://raw.githubusercontent.com/thegecko/web-bluetooth/master/images/physical-web.png)
 
+Scott Jenson @google
+
 # Demo
 beacons (phone)
 
@@ -15,20 +17,23 @@ beacons (phone)
 [Monty Leddington](https://github.com/thegecko/monty-leddington) (phone)
 
 # Desktop Usage
+
 [bleat](https://github.com/thegecko/bleat)
 * [evothings](https://evothings.com/evothings-studio-with-support-for-web-bluetooth-and-ecmascript-6/)
 * Espruino IDE
+Coming to noble
 
 # Demo
 
-Selector (node)
+Selector (node - example from bleat)
 
 # Firmware
 
 [web-bluetooth-dfu](https://github.com/thegecko/web-bluetooth-dfu)
+
 # Demo
 
-DFU (node | ChromeOS)
+nordic DFU (node | ChromeOS)
 
 # Block Transfer
 
@@ -37,3 +42,7 @@ DFU (node | ChromeOS)
 # Demo
 
 bbt (node | phone | ChromeOS)
+
+# Wifi provisioning
+
+# Demo
